@@ -27,7 +27,7 @@ import java.util.ListIterator;
 
 public class MainActivity extends Activity {
 
-
+//some stuff
     EditText nameText1, phoneText1, emailText1, addressText1;
     List<Contact> Contacts = new ArrayList<Contact>();
     ListView contactListView;
